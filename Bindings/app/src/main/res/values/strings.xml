@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bindings</string>
+    <string name="view_binding">View Binding</string>
+    <string name="data_binding">Data Binding</string>
+
+    <!-- View Binding -->
+    <string name="print_view_activity">Print (View Activity)</string>
+    <string name="view_activity">View Activity</string>
+
+    <string name="print_view_fragment">Print (View Fragment)</string>
+    <string name="view_fragment">View Fragment</string>
+
+    <!-- Data Binding -->
+    <string name="print_data_activity">Print (Data Activity)</string>
+    <string name="data_activity">Data Activity</string>
+
+    <string name="print_data_fragment">Print (Data Fragment)</string>
+    <string name="data_fragment">Data Fragment</string>
+    <string name="data_binding_with_live_data">Data Binding with Live Data</string>
+
+    <!-- Data Binding Live Data -->
+    <string name="update_content">Update Content</string>
+    <string name="update_observer">Update Observer</string>
+
+
+    <string name="default_image">https://images.ctfassets.net/hrltx12pl8hq/4plHDVeTkWuFMihxQnzBSb/aea2f06d675c3d710d095306e377382f/shutterstock_554314555_copy.jpg</string>
+</resources>
